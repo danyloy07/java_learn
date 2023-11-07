@@ -4,5 +4,7 @@ public class Variables {
         System.out.println(num);
         short num2 = 2;
         System.out.println(num2);
+        float fl = 12.12f;
+        System.out.println(fl);
     }
 }
